@@ -1,0 +1,81 @@
+
+.top{
+    display: block;  
+    position: relative;
+    top:200px;
+}
+
+.first{ 
+    display: block;
+    position: relative;
+    left: 300px;
+    bottom: 40px;
+}
+.secd{
+    display: block;
+    position: relative;
+    right: 220px;
+    bottom: 170px;
+}
+.middle{
+    
+
+}
+
+span{font-size: 2.25rem;color: #CFD2CF;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: normal;
+    line-height: 1.5;
+}
+.secdspan{
+    position: relative;
+    right: 3%;
+    font-size: 2.25rem;
+}
+.fstspan{
+    position: relative;
+    left: 10%;
+}
+h2{ font-family: 'Sacramento', cursive;
+    color: #A77979 ;
+    font-size: 2rem;
+}
+h3{font-family: 'Saira', sans-serif;;
+    color: #E6D2AA;}
+p{font-family: 'Tangerine', cursive;
+    color: #61876E;
+    display: inline-flex;
+    font-size: 2rem;
+}
+.said_by{margin: 0px;
+position: relative;
+left: 30%;
+
+}
+.btn{font-family: 'Playball', cursive;
+    color: #D0C9C0;
+    display: inline-flex;
+    text-decoration: none;
+}
+body{text-align: center;
+    background-color: #434242;
+    margin: 0;
+}
+.copy{
+display: block;
+margin: 1% auto 0 auto;
+}
+.des{
+    margin: 0 auto 0 auto;
+}
+.footer-link{
+    font-family: 'Playball', cursive;
+    color: #D0C9C0;
+    display: inline-flex;
+}
+.ty{
+    margin-top:0;
+}
+.bottom{
+    margin-top: 10px;
+}
